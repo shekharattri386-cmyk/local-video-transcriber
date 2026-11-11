@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+models/
+transcripts/
+work/
+*.log
+*.stop
+.env
+.env.*
+cookies*.txt
+*.wav
+*.mp4
+*.mp3
+.DS_Store
+Thumbs.db
